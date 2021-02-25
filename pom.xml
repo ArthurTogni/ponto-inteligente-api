@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ponto</groupId>
 	<artifactId>ponto-inteligente</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>PontoInteligente</name>
 	<description>api para o sistema de ponto inteligente </description>
 	<properties>
